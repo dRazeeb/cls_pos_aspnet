@@ -1,0 +1,17 @@
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Service.deps.json
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Service.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Data.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Data.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Release\net6.0\Swift.Core.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.csproj.AssemblyReference.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.AssemblyInfoInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.AssemblyInfo.cs
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.csproj.CoreCompileInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.csproj.CopyComplete
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\refint\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\Swift.Service.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Release\net6.0\ref\Swift.Service.dll

@@ -1,0 +1,17 @@
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Service.deps.json
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Service.dll
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Service.pdb
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Core.dll
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Data.dll
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Data.pdb
+D:\GCTL\Apex\Apex\Apex.Service\bin\Release\net6.0\Apex.Core.pdb
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.csproj.AssemblyReference.cache
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.AssemblyInfoInputs.cache
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.AssemblyInfo.cs
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.csproj.CoreCompileInputs.cache
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.csproj.CopyComplete
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.dll
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\refint\Apex.Service.dll
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\Apex.Service.pdb
+D:\GCTL\Apex\Apex\Apex.Service\obj\Release\net6.0\ref\Apex.Service.dll

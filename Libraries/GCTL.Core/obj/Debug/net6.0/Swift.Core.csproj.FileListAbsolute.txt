@@ -1,0 +1,36 @@
+D:\GCTL\New folder\Swift\Apex.Core\bin\Debug\net6.0\Swift.Core.deps.json
+D:\GCTL\New folder\Swift\Apex.Core\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Apex.Core\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.csproj.AssemblyReference.cache
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfoInputs.cache
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfo.cs
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.csproj.CoreCompileInputs.cache
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\refint\Swift.Core.dll
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Apex.Core\obj\Debug\net6.0\ref\Swift.Core.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.deps.json
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.csproj.AssemblyReference.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfoInputs.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfo.cs
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.csproj.CoreCompileInputs.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\refint\Swift.Core.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Core\obj\Debug\net6.0\ref\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.deps.json
+D:\GCTL\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Core\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.csproj.AssemblyReference.cache
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfoInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.AssemblyInfo.cs
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.csproj.CoreCompileInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\refint\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\Swift\Libraries\Swift.Core\obj\Debug\net6.0\ref\Swift.Core.dll

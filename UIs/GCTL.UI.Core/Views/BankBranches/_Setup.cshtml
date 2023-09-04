@@ -1,0 +1,94 @@
+﻿@model GCTL.Core.ViewModels.BankBranches.BankBranchSetupViewModel
+
+<div style="padding-top: 10px;">
+    <div class="row">
+        <div class="col-lg-6">
+            <span id="message"></span>
+        </div>
+        <div class="col-lg-6">
+        </div>
+    </div>
+    <div class="form-group row">
+        <input type="hidden" id="lastCode" />
+        <input type="hidden" asp-for="AutoId" />
+        <input type="hidden" asp-for="Ldate" />
+        <input type="hidden" asp-for="ModifyDate" />
+        <div class="col-lg-6">
+            <label asp-for="BankBranchId"></label>
+            <div class="input-group input-group-sm">
+                <input asp-for="BankBranchId" class="form-control form-control-sm js-bankbranch-code" readonly="readonly" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-lg-6">
+            <label asp-for="BankId"></label>
+            <span class="text-danger">*</span>
+            <div class="input-group input-group-sm">
+                <select asp-for="BankId" asp-items="@ViewBag.Banks as SelectList" class="form-control form-control-sm selectpicker"
+                        data-placeholder="Select Bank">
+                    <option></option>
+                </select>
+                <span asp-validation-for="BankId" class="text-danger" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-lg-6">
+            <label asp-for="BankBranchName"></label>
+            <span class="text-danger">*</span>
+            <input asp-for="BankBranchName" class="form-control form-control-sm js-bankbranch-check-availability" placeholder="Enter Branch Name" />
+            <span asp-validation-for="BankBranchName" class="text-danger" />
+        </div>
+        <div class="col-lg-6">
+            <label asp-for="ShortName"></label>
+            <input asp-for="ShortName" class="form-control form-control-sm" placeholder="Enter Short Name" />
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-lg-6">
+            <label asp-for="Swiftcode"></label>
+            <span class="text-danger">*</span>
+            <input asp-for="Swiftcode" class="form-control form-control-sm" placeholder="Enter Swift Code" />
+            <span asp-validation-for="Swiftcode" class="text-danger" />
+        </div>
+        <div class="col-lg-6">
+            <label asp-for="Phone"></label>
+            <input asp-for="Phone" class="form-control form-control-sm" placeholder="Enter Phone No." />
+            <span asp-validation-for="Phone" class="text-danger" />
+        </div>       
+    </div>
+    <div class="form-group row">
+        <div class="col-lg-6">
+            <label asp-for="Address"></label>
+            <textarea asp-for="Address" class="form-control form-control-sm" rows="4" placeholder="Enter Address"></textarea>
+        </div>
+    </div>
+    @if (Model.AutoId > 0)
+    {
+        <hr />
+        <div class="form-group row">
+            <div class="col-lg-6">
+                @if (Model.Ldate.HasValue)
+                {
+                    <label>Creation Date: </label>
+                    <label>@Model.Ldate.Value.ToString(ApplicationConstants.DateFormat)</label>
+                }
+            </div>
+            <div class="col-lg-6">
+                @if (Model.ModifyDate.HasValue)
+                {
+                    <label>Last Update Date: </label>
+                    <label>@Model.ModifyDate.Value.ToString(ApplicationConstants.DateFormat)</label>
+                }
+            </div>
+        </div>
+    }
+</div>
+<div class="row no-print" style="margin-top: 9px;">
+    <div class="col-12">
+        <button class="btn btn-default success-btn btn-common btn-circle float-right js-bankbranch-save" type="button">
+            <i class="fas fa-save">&nbsp;</i> Save
+        </button>
+    </div>
+</div>

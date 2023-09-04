@@ -1,0 +1,51 @@
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Service.deps.json
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Service.dll
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Data.dll
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Data.pdb
+D:\GCTL\New folder\Swift\Apex.Service\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.csproj.AssemblyReference.cache
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfoInputs.cache
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfo.cs
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.csproj.CoreCompileInputs.cache
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.csproj.CopyComplete
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.dll
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\refint\Swift.Service.dll
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\New folder\Swift\Apex.Service\obj\Debug\net6.0\ref\Swift.Service.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\refint\Swift.Service.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.deps.json
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Data.dll
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Data.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.AssemblyReference.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfoInputs.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfo.cs
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.CoreCompileInputs.cache
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.CopyComplete
+D:\GCTL\New folder\Swift\Libraries\Swift.Service\obj\Debug\net6.0\ref\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.deps.json
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Core.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Data.dll
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Data.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\bin\Debug\net6.0\Swift.Core.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.AssemblyReference.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfoInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.AssemblyInfo.cs
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.CoreCompileInputs.cache
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.csproj.CopyComplete
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\refint\Swift.Service.dll
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\Swift.Service.pdb
+D:\GCTL\Swift\Libraries\Swift.Service\obj\Debug\net6.0\ref\Swift.Service.dll

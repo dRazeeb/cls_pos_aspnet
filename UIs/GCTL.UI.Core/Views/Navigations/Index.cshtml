@@ -1,0 +1,67 @@
+﻿@model GCTL.UI.Core.ViewModels.Navigations.NavigationPageViewModel
+@{
+    ViewBag.Title = "Navigation";
+    Model.Breadcrumb = "Navigation";
+    Model.PageTitle = ViewBag.Title;
+}
+
+<!-- Content Header (Page header) -->
+<partial name="_PageHeader" model="Model" />
+<link href="~/frontend/plugins/jquery-ui/jquery-ui.min.css" rel="stylesheet" />
+<link href="~/frontend/plugins/jquery-ui/jquery-ui.structure.min.css" rel="stylesheet" />
+<link href="~/frontend/plugins/jquery-ui/jquery-ui.theme.min.css" rel="stylesheet" />
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">               
+                <div class="card card-primary">
+                    <div class="card-header" style="background-color: white; color: black; padding: 10px; font-weight: 600;">
+                        <partial name="_Toolbars" model="new ToobarModel() { Title = Model.Breadcrumb, Code = Model.Code, Name = Model.Setup.Title }" />
+                    </div>
+                    <div class="card-body">
+                        <form asp-action="Setup" id="navigation-form">
+                            <div class="js-navigation-form-container">
+                                <partial name="_Setup" model="Model.Setup" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="js-navigation-grid-container">
+                           @* <partial name="_Grid" />*@
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <partial name="_BottomNavigation" />
+    </div>
+</section>
+<partial name="DeleteModal" />
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="~/js/jquery.multisortable.js"></script>
+    <script src="~/js/pages/navigations.js"></script>
+    <script src="~/frontend/plugins/jquery-ui/jquery-ui.min.js"></script>
+ 
+
+    <script type="text/javascript">
+        var options = {
+            baseUrl: '@Url.Action("", "Navigations")'
+        };
+        options.load = () => {
+        };
+
+        $.navigations(options);
+    </script>
+}
+
+
+

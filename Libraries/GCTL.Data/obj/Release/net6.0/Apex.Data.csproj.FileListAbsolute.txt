@@ -1,0 +1,15 @@
+D:\GCTL\Apex\Apex\Apex.Data\bin\Release\net6.0\Apex.Data.deps.json
+D:\GCTL\Apex\Apex\Apex.Data\bin\Release\net6.0\Apex.Data.dll
+D:\GCTL\Apex\Apex\Apex.Data\bin\Release\net6.0\Apex.Data.pdb
+D:\GCTL\Apex\Apex\Apex.Data\bin\Release\net6.0\Apex.Core.dll
+D:\GCTL\Apex\Apex\Apex.Data\bin\Release\net6.0\Apex.Core.pdb
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.csproj.AssemblyReference.cache
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.AssemblyInfoInputs.cache
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.AssemblyInfo.cs
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.csproj.CoreCompileInputs.cache
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.csproj.CopyComplete
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.dll
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\refint\Apex.Data.dll
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\Apex.Data.pdb
+D:\GCTL\Apex\Apex\Apex.Data\obj\Release\net6.0\ref\Apex.Data.dll

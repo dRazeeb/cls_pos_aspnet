@@ -1,0 +1,308 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Views\Doctors\**" />
+    <Compile Remove="Views\DueCollections\**" />
+    <Compile Remove="Views\LabTests\**" />
+    <Compile Remove="Views\TestEntries\**" />
+    <Content Remove="Views\Doctors\**" />
+    <Content Remove="Views\DueCollections\**" />
+    <Content Remove="Views\LabTests\**" />
+    <Content Remove="Views\TestEntries\**" />
+    <EmbeddedResource Remove="Views\Doctors\**" />
+    <EmbeddedResource Remove="Views\DueCollections\**" />
+    <EmbeddedResource Remove="Views\LabTests\**" />
+    <EmbeddedResource Remove="Views\TestEntries\**" />
+    <None Remove="Views\Doctors\**" />
+    <None Remove="Views\DueCollections\**" />
+    <None Remove="Views\LabTests\**" />
+    <None Remove="Views\TestEntries\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\js\pages\balancesheetStatement.js" />
+    <Content Remove="wwwroot\js\pages\cashbookReports.js" />
+    <Content Remove="wwwroot\js\pages\controlLedger.js" />
+    <Content Remove="wwwroot\js\pages\doctorWorkingPlace.js" />
+    <Content Remove="wwwroot\js\pages\dueList.js" />
+    <Content Remove="wwwroot\js\pages\expenseEntry.js" />
+    <Content Remove="wwwroot\js\pages\expenseHead.js" />
+    <Content Remove="wwwroot\js\pages\generalLedger.js" />
+    <Content Remove="wwwroot\js\pages\incomeStatement.js" />
+    <Content Remove="wwwroot\js\pages\inPatientBillApproval.js" />
+    <Content Remove="wwwroot\js\pages\labTestBillApproval.js" />
+    <Content Remove="wwwroot\js\pages\outPatientBillApproval.js" />
+    <Content Remove="wwwroot\js\pages\outPatientPrescriptionReport.js" />
+    <Content Remove="wwwroot\js\pages\relation.js" />
+    <Content Remove="wwwroot\js\pages\salesCollectionReport.js" />
+    <Content Remove="wwwroot\js\pages\subControlLedger.js" />
+    <Content Remove="wwwroot\js\pages\subsidiaryLedger.js" />
+    <Content Remove="wwwroot\js\pages\subSubsidiaryLedger.js" />
+    <Content Remove="wwwroot\js\pages\voucherEntry.js" />
+    <Content Remove="wwwroot\Reports\Discharge.rdlc" />
+    <Content Remove="wwwroot\Reports\DueList.rdlc" />
+    <Content Remove="wwwroot\Reports\OutPatientPrescriptionFee.rdlc" />
+    <Content Remove="wwwroot\Reports\PrescriptionBlank.rdlc" />
+    <Content Remove="wwwroot\Reports\PrescriptionBlank2.rdlc" />
+    <Content Remove="wwwroot\Reports\Rpt_PatientSingle.rdlc" />
+    <Content Remove="wwwroot\Reports\SalesCollectionReport.rdlc" />
+    <Content Remove="wwwroot\Reports\VoucherEntryReport.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\CommissionPaymentsController.cs~RF13dee71.TMP" />
+    <None Remove="Controllers\okhe0rmp.yws~" />
+    <None Remove="Extensions\ServiceCollectionExtensions.cs~RF56e472.TMP" />
+    <None Remove="Views\ExpenseEntry\2cdlph1a.cjj~" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <None Include="Views\AccessCodes\DeleteModal.cshtml" />
+    <None Include="Views\AccessCodes\Index.cshtml" />
+    <None Include="Views\AccessCodes\_Grid.cshtml" />
+    <None Include="Views\AccessCodes\_Setup.cshtml" />
+    <None Include="Views\AccessCodes\_Toolbars.cshtml" />
+    <None Include="Views\AccVoucher\DeleteModal.cshtml" />
+    <None Include="Views\AccVoucher\Index.cshtml" />
+    <None Include="Views\AccVoucher\_Grid.cshtml" />
+    <None Include="Views\AccVoucher\_Setup.cshtml" />
+    <None Include="Views\AccVoucher\_Toolbars.cshtml" />
+    <None Include="Views\Navigations\DeleteModal.cshtml" />
+    <None Include="Views\Navigations\Index.cshtml" />
+    <None Include="Views\Navigations\_Grid.cshtml" />
+    <None Include="Views\Navigations\_Setup.cshtml" />
+    <None Include="Views\Navigations\_Toolbars.cshtml" />
+    <None Include="Views\Shared\Components\Menu\Default.cshtml" />
+    <None Include="Views\UserAccess\DeleteModal.cshtml" />
+    <None Include="Views\UserAccess\Index.cshtml" />
+    <None Include="Views\UserAccess\_Grid.cshtml" />
+    <None Include="Views\UserAccess\_Setup.cshtml" />
+    <None Include="Views\UserAccess\_Toolbars.cshtml" />
+    <None Include="wwwroot\js\app.js" />
+    <None Include="wwwroot\js\bootstrap-select.min.js" />
+    <None Include="wwwroot\js\dataTables.bootstrap4.min.js" />
+    <None Include="wwwroot\js\jquery-1.9.0.intellisense.js" />
+    <None Include="wwwroot\js\jquery-1.9.0.js" />
+    <None Include="wwwroot\js\jquery-1.9.0.min.js" />
+    <None Include="wwwroot\js\jquery-1.9.0.min.map" />
+    <None Include="wwwroot\js\jquery-3.3.1.js" />
+    <None Include="wwwroot\js\jquery-ui.js" />
+    <None Include="wwwroot\js\jquery-ui.min.js" />
+    <None Include="wwwroot\js\jquery.dataTables.min.js" />
+    <None Include="wwwroot\js\jquery.min.js" />
+    <None Include="wwwroot\js\jquery.timepicker.min.js" />
+    <None Include="wwwroot\js\notify.min.js" />
+    <None Include="wwwroot\js\owl.carousel.min.js" />
+    <None Include="wwwroot\js\pages\accessCodes.js" />
+    <None Include="wwwroot\js\pages\bankAccounts.js" />
+    <None Include="wwwroot\js\pages\bankBranches.js" />
+    <None Include="wwwroot\js\pages\banks.js" />
+    <None Include="wwwroot\js\pages\balancesheetStatement.js" />
+    <None Include="wwwroot\js\pages\incomeStatement.js" />
+    <None Include="wwwroot\js\pages\cashbookReports.js" />
+    <None Include="wwwroot\js\pages\expenseHead.js" />
+    <None Include="wwwroot\js\pages\expenseEntry.js" />
+    <None Include="wwwroot\js\pages\voucherEntry.js" />
+    <None Include="wwwroot\js\pages\subSubsidiaryLedger.js" />
+    <None Include="wwwroot\js\pages\subsidiaryLedger.js" />
+    <None Include="wwwroot\js\pages\generalLedger.js" />
+    <None Include="wwwroot\js\pages\subControlLedger.js" />
+    <None Include="wwwroot\js\pages\controlLedger.js" />
+    <None Include="wwwroot\js\pages\dueList.js" />
+    <None Include="wwwroot\js\pages\salesCollectionReport.js" />
+    <None Include="wwwroot\js\pages\outPatientBillApproval.js" />
+    <None Include="wwwroot\js\pages\inPatientBillApproval.js" />
+    <None Include="wwwroot\js\pages\labTestBillApproval.js" />
+    <None Include="wwwroot\js\pages\outPatientPrescriptionReport.js" />
+    <None Include="wwwroot\js\pages\commissionPayableReports.js" />
+    <None Include="wwwroot\js\pages\relation.js" />
+    <None Include="wwwroot\js\pages\doctorWorkingPlace.js" />
+    <None Include="wwwroot\js\pages\medicineReports.js" />
+    <None Include="wwwroot\js\pages\medicineCategories.js" />
+    <None Include="wwwroot\js\pages\medicineSuppliers.js" />
+    <None Include="wwwroot\js\pages\medicineManufacturers.js" />
+    <None Include="wwwroot\js\pages\medicineTypes.js" />
+    <None Include="wwwroot\js\pages\dueCollectionReports.js" />
+    <None Include="wwwroot\js\pages\collectionReports.js" />
+    <None Include="wwwroot\js\pages\medicineSetup.js" />
+    <None Include="wwwroot\js\pages\medicines - Copy.js" />
+    <None Include="wwwroot\js\pages\salesAllReports.js" />
+    <None Include="wwwroot\js\pages\salesReports.js" />
+    <None Include="wwwroot\js\pages\surnames.js" />
+    <None Include="wwwroot\js\pages\deliveryPeriods.js" />
+    <None Include="wwwroot\js\pages\specimens.js" />
+    <None Include="wwwroot\js\pages\labTestResultCarriedOuts.js" />
+    <None Include="wwwroot\js\pages\measurementUnits.js" />
+    <None Include="wwwroot\js\pages\units.js" />
+    <None Include="wwwroot\js\pages\commissionDueReports.js" />
+    <None Include="wwwroot\js\pages\discountPayableReports.js" />
+    <None Include="wwwroot\js\pages\commissionPaymentReports.js" />
+    <None Include="wwwroot\js\pages\dischargeReports.js" />
+    <None Include="wwwroot\js\pages\dischargeTypes.js" />
+    <None Include="wwwroot\js\pages\admissionTypes.js" />
+    <None Include="wwwroot\js\pages\nurseReports.js" />
+    <None Include="wwwroot\js\pages\patientReports.js" />
+    <None Include="wwwroot\js\pages\doctorReports.js" />
+    <None Include="wwwroot\js\pages\logs.js" />
+    <None Include="wwwroot\js\pages\beds.js" />
+    <None Include="wwwroot\js\pages\bloodGroups.js" />
+    <None Include="wwwroot\js\pages\companies.js" />
+    <None Include="wwwroot\js\pages\currencies.js" />
+    <None Include="wwwroot\js\pages\departments.js" />
+    <None Include="wwwroot\js\pages\designations.js" />
+    <None Include="wwwroot\js\pages\doctors.js" />
+    <None Include="wwwroot\js\pages\medicines.js" />
+    <None Include="wwwroot\js\pages\doctorTypes.js" />
+    <None Include="wwwroot\js\pages\dosages.js" />
+    <None Include="wwwroot\js\pages\employees.js" />
+    <None Include="wwwroot\js\pages\nurses.js" />
+    <None Include="wwwroot\js\pages\commissionReports.js" />
+    <None Include="wwwroot\js\pages\commissionPayments.js" />
+    <None Include="wwwroot\js\pages\pharmacies.js" />
+    <None Include="wwwroot\js\pages\labTestReferenceSetups.js" />
+    <None Include="wwwroot\js\pages\testDiscountSetups.js" />
+    <None Include="wwwroot\js\pages\testCommissionSetups.js" />
+    <None Include="wwwroot\js\pages\outPatientPrescriptions.js" />
+    <None Include="wwwroot\js\pages\patientCategories.js" />
+    <None Include="wwwroot\js\pages\patients.js" />
+    <None Include="wwwroot\js\pages\patientTypes.js" />
+    <None Include="wwwroot\js\pages\paymentModes.js" />
+    <None Include="wwwroot\js\pages\paymentTypes.js" />
+    <None Include="wwwroot\js\pages\qualifications.js" />
+    <None Include="wwwroot\js\pages\referencePersons.js" />
+    <None Include="wwwroot\js\pages\religions.js" />
+    <None Include="wwwroot\js\pages\roomCosts.js" />
+    <None Include="wwwroot\js\pages\rooms.js" />
+    <None Include="wwwroot\js\pages\roomTypes.js" />
+    <None Include="wwwroot\js\pages\serviceChargeGroups.js" />
+    <None Include="wwwroot\js\pages\shifts.js" />
+    <None Include="wwwroot\js\pages\specialities.js" />
+    <None Include="wwwroot\js\pages\testCategories.js" />
+    <None Include="wwwroot\js\pages\testCharges.js" />
+    <None Include="wwwroot\js\pages\testSubCategories.js" />
+    <None Include="wwwroot\js\pages\discountIssuers.js" />
+    <None Include="wwwroot\js\pages\serviceChargeHeads.js" />
+    <None Include="wwwroot\js\pages\unitTypes.js" />
+    <None Include="wwwroot\js\pages\userAccesses.js" />
+    <None Include="wwwroot\js\select2.min.js" />
+    <None Include="wwwroot\js\sidebar-menu.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\lib\bootstrap-multiselect-master\dist\js\bootstrap-multiselect.js" />
+    <None Include="wwwroot\lib\bootstrap-multiselect-master\dist\js\bootstrap-multiselect.min.js" />
+    <None Include="wwwroot\lib\bootstrap-multiselect-master\dist\less\bootstrap-multiselect.less" />
+    <None Include="wwwroot\Reports\VoucherEntryReport.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <EmbeddedResource Include="Reports\Sales.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <None Include="wwwroot\Reports\Template.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AspNetCore.Reporting" Version="2.1.0" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.15" />
+    <PackageReference Include="QRCoder" Version="1.4.3" />
+    <PackageReference Include="ReportViewerCore.NETCore" Version="15.1.17" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.0.1" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.3.0" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="5.7.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+    <PackageReference Include="System.Security.Permissions" Version="6.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\GCTL.Core\GCTL.Core.csproj" />
+    <ProjectReference Include="..\..\Libraries\GCTL.Data\GCTL.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\GCTL.Service\GCTL.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="DataSets\BillDatasets.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BillDatasets.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="DataSets\CommissionDataSets.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CommissionDataSets.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="DataSets\LabTestDataSets.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>LabTestDataSets.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="DataSets\MedicalDatasets.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MedicalDatasets.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="Views\Medicines\Setup.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\NurseReports\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\NurseReports\_Filter.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="Views\NurseReports\_Grid.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Update="wwwroot\js\sidebar-menu.js">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DataSets\LabTestDataSets.xsd">
+      <LastGenOutput>LabTestDataSets.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="DataSets\CommissionDataSets.xsd">
+      <LastGenOutput>CommissionDataSets.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="DataSets\BillDatasets.xsd">
+      <LastGenOutput>BillDatasets.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="DataSets\MedicalDatasets.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MedicalDatasets.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="PXLibrary">
+      <HintPath>bin\PXLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

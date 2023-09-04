@@ -1,0 +1,82 @@
+﻿@model GCTL.UI.Core.ViewModels.ExpenseEntry.ExpenseEntryPageViewModel
+@{
+    ViewBag.Title = "Expense Entry";
+    Model.Breadcrumb = "Expense Entry";
+    Model.PageTitle = ViewBag.Title;
+}
+<style>
+.select2{
+    width:100% !important;
+}
+</style>
+
+<!-- Content Header (Page header) -->
+<partial name="_PageHeader" model="Model" />
+
+<section class="content consistent-look">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 pr-0">
+                <div class="card">
+                    <div class="card-header px-2">
+                      <div class="row mb-2" style="height: 19px;">
+             
+               
+            </div>
+                        <partial name="_Toolbars" model="new ToobarModel() { Title = Model.Breadcrumb, Code = Model.Code, Name = Model.Setup.ExpenseCode }" />
+                    </div>
+                    <div class="card-body px-2">
+                        <form asp-action="Setup" id="expenseEntry-form">
+                            <div class="js-expenseEntry-form-container">
+                                <partial name="_Setup" model="Model.Setup" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body p-2 pt-3">
+                          <div class="row">
+           <div class="col-lg-4">
+         <input id="txtFromDate" class="form-control form-control-sm datepicker" placeholder="Select From Date" />
+    </div>
+    <div class="col-lg-4">
+         <input id="txtToDate" class="form-control form-control-sm datepicker" placeholder="Select To Date" />
+    </div>
+    <div class="col-lg-4">
+        <button type="button" class="btn btn-default success-btn btn-common btn-circle  js-voucherEntry-GridPreivew">
+            <i class="fas fa-search"></i> Search
+        </button>
+    </div>
+   </div>
+                        <div class="js-expenseEntry-grid-container">
+                            <partial name="_Grid" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <partial name="_BottomNavigation" />
+    </div>
+</section>
+<partial name="DeleteModal" />
+<partial name="QuickAddModal" />
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/js/pages/expenseEntry.js"></script>
+    <script type="text/javascript">
+        var options = {
+            baseUrl: '@Url.Action("", "ExpenseEntry")'
+        };
+        options.load = () => {
+        };
+
+        $.expenseEntry(options);
+    </script>
+}
+
+
+

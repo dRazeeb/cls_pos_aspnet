@@ -1,0 +1,86 @@
+﻿@model GCTL.Core.ViewModels.AccVouchers.AccVoucherSetupViewModel
+
+<div style="padding-top: 10px;">
+    <div class="row">
+        <div class="col-lg-6">
+            <span id="message"></span>
+        </div>
+        <div class="col-lg-6">
+        </div>
+    </div>
+    <div class="form-group row">
+        <input type="hidden" id="lastCode" />
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Ldate" />
+        <input type="hidden" asp-for="ModifyDate" />
+        <div class="col-lg-3">
+            <label asp-for="Main_CompanyCode">Company Name</label>
+            <select asp-for="Main_CompanyCode" class="form-control form-control-sm Main_CompanyCode selectpicker"
+                    asp-items="@ViewBag.Company as SelectList"
+                    data-placeholderX="Select Company Name">
+                <option value="">Select Company Name</option>
+            </select>           
+             <span asp-validation-for="Main_CompanyCode" class="text-danger" />
+        </div>
+         <div class="col-lg-3">
+            <label asp-for="VoucherType_Code">Voucher Type</label>
+            <span class="text-danger">*</span>
+           <select asp-for="VoucherType_Code" class="form-control form-control-sm VoucherType_Code selectpicker"
+                    asp-items="@ViewBag.VoucherType as SelectList"
+                    data-placeholderX="Select Voucher Type ">
+                <option value="">Select Voucher Type</option>
+            </select>
+              <span asp-validation-for="VoucherType_Code" class="text-danger" />
+        </div>
+         <div class="col-lg-3">
+              <label id="lblhidValue" style="display:none"> </label>
+             <label asp-for="VoucherNo">Voucher No </label>
+              <span class="text-danger">*</span>
+            <input asp-for="VoucherNo" class="form-control form-control-sm" placeholder="Enter Voucher No" />
+             <span asp-validation-for="VoucherNo" class="text-danger" />
+        </div>
+     
+    </div>
+ 
+    <div class="form-group row">
+          <div class="col-lg-3">
+            <label asp-for="VoucherDate">Voucher Date </label>
+              <span class="text-danger">*</span>
+            <input asp-for="VoucherDate" class="form-control form-control-sm datepicker" placeholder="Select Voucher Date" />
+            <span asp-validation-for="VoucherDate" class="text-danger" />
+        </div>
+            <div class="col-lg-6">
+               <label asp-for="Narration">Narration  </label>
+               <span class="text-danger">*</span>
+               <input asp-for="Narration" class="form-control form-control-sm" placeholder="Enter Narration" />
+               <span asp-validation-for="Narration" class="text-danger" />
+        </div>
+
+    </div>
+        <partial name="_VoucherEntryDetails" model="Model" />
+
+
+</div>
+<div class="row no-print" style="margin-top: 9px;">
+       <div class="col-lg-2">
+         <input id="txtFromDate" class="form-control form-control-sm datepicker" placeholder="Select From Date" />
+    </div>
+    <div class="col-lg-2">
+         <input id="txtToDate" class="form-control form-control-sm datepicker" placeholder="Select To Date" />
+    </div>
+    <div class="col-lg-2">
+        <button type="button" class="btn btn-default success-btn btn-common btn-circle  js-voucherEntry-GridPreivew" data-id="@Model.VoucherNo">
+            <i class="fas fa-search"></i> Search
+        </button>
+    </div>
+    <div class="col-lg-6">
+       
+        <button type="button" class="btn btn-default success-btn btn-common btn-circle float-right js-voucherEntry-save" data-id="@Model.VoucherNo">
+            <i class="fas fa-save"></i> Save
+        </button>
+
+          <button type="button" class="btn btn-default success-btn btn-common btn-circle float-right js-voucherEntry-print" data-id="@Model.VoucherNo">
+            <i class="fas fa-eye"></i> Preview
+        </button>
+    </div>
+</div>

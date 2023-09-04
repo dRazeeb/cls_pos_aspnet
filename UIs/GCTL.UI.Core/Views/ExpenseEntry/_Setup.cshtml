@@ -1,0 +1,156 @@
+﻿@model GCTL.Core.ViewModels.ExpenseEntry.ExpenseEntrySetupViewModel
+
+<div style="padding-top: 10px;">
+    <div class="row">
+        <div class="col-lg-6">
+            <span id="message"></span>
+        </div>
+        <div class="col-lg-6">
+        </div>
+    </div>
+    <div class="form-group row">
+        <input type="hidden" id="lastCode" />
+        <input type="hidden" asp-for="Id" />
+        <input type="hidden" asp-for="Ldate" />
+        <input type="hidden" asp-for="ModifyDate" />
+        <label id="lblhidValue" style="display:none"></label>
+        <div class="col-lg-6">
+            <label asp-for="ExpenseCode">Expense No</label>           
+            <input asp-for="ExpenseCode" class="form-control form-control-sm js-expenseEntry-code" />
+         
+        </div>
+          <div class="col-lg-6">
+            <label asp-for="ExpenseDate">Expense Date</label>
+            <span class="text-danger">*</span>
+            <input asp-for="ExpenseDate" class="form-control form-control-sm js-expenseEntry datepicker" placeholder="Enter Expense Date" />
+            <span asp-validation-for="ExpenseDate" class="text-danger" />
+        </div>
+    </div>
+    <div class="form-group row">
+         <div class="col-lg-6">
+            <label asp-for="SubSusidiaryLedgerCodeNo">Expense Head</label>
+            <span class="text-danger">*</span>
+                <div class="d-flex">
+                             <select asp-for="SubSusidiaryLedgerCodeNo" class="form-control form-control-sm SubSusidiaryLedgerCodeNo selectpicker"
+                    asp-items="@ViewBag.EH as SelectList"
+                    data-placeholderX="Select Expense Head">
+                <option value="">Select Expense Head</option>
+            </select>
+                            <div class="input-group-appendx">
+                                  <button type="button" class="btn btn-sm btn-default js-quick-add input-group-textc"
+                                    data-url="@Url.Action("Index", "ExpenseHeadFromASSL")"
+                                    data-target="#SubSusidiaryLedgerCodeNo"
+                                    data-reload-url="@Url.Action("GetASSLExpenseHead", "Cascading")"
+                                    data-title="Expense Head">
+                                +
+                            </button>
+                            </div>
+                        </div>
+          
+            <span asp-validation-for="SubSusidiaryLedgerCodeNo" class="text-danger"></span>
+               
+        </div>
+        <div class="col-lg-6">
+            <label asp-for="Amount">Amount</label>
+            <input asp-for="Amount" class="form-control form-control-sm" placeholder="Enter Amount" />
+              <span asp-validation-for="Amount" class="text-danger" />
+        </div>
+    </div>
+        <div class="form-group row">
+         <div class="col-lg-6">
+            <label asp-for="PaymentMode">Payment Mode</label>
+            <span class="text-danger">*</span>
+            <select asp-for="PaymentMode" class="form-control form-control-sm PaymentMode selectpicker"
+                    asp-items="@ViewBag.PaymentModes as SelectList"
+                    data-placeholderX="Select Payment Mode">
+                <option value="">Select Payment Mode</option>
+            </select>
+            <span asp-validation-for="PaymentMode" class="text-danger"></span>
+        </div>
+        <div class="col-lg-6 d-none bkash">
+            <label asp-for="BkashNo">Bkash No. </label>
+                 <span class="text-danger"></span>
+            <select asp-for="BkashNo" class="form-control form-control-sm BkashNo selectpicker"
+                    asp-items="@ViewBag.BkashNo as SelectList"
+                    data-placeholderX="Select Bkash No">
+                <option value="">Select bkash No</option>
+            </select>
+          
+        </div>
+    </div>
+         <div class="form-group row paymentmode cheque d-none">
+                <div class="col-lg-6">
+                    <label asp-for="ChequeNo">Cheque No. </label>
+                    <input asp-for="ChequeNo" class="form-control form-control-sm" placeholder="Enter Cheque No." />
+              
+                </div>
+                <div class="col-lg-6">
+                    <label asp-for="ChequeDate">Cheque Date</label>
+                    <input asp-for="ChequeDate" class="form-control form-control-sm datetimepicker" placeholder="Enter Cheque Date" />
+                   
+                </div>
+            </div>
+            <div class="form-group row paymentmode cheque d-none">
+                
+                <div class="col-lg-6">
+                    <label asp-for="BankAccountNo">Bank A/C No </label>
+                    <select asp-for="BankAccountNo" asp-items="@ViewBag.TransferBankAccounts as SelectList" 
+                    class="form-control form-control-sm selectpicker" style="width:100% !important"
+                        data-placeholderX="Select  Bank Account">
+                        <option value="">Select  Bank Account</option>
+                    </select>
+                  
+                </div>
+            </div>
+            <div class="form-group row paymentmode transfer d-none">
+                <div class="col-lg-6">
+                    <label asp-for="TransferBankFrom"> Transfer Bank From</label>
+                    <select asp-for="TransferBankFrom" asp-items="@ViewBag.BankFrom as SelectList" class="form-control form-control-sm selectpicker" style="width:100% !important" 
+                    data-placeholderX="Select Transferred Bank From">
+                        <option value="">Select  Bank Account</option>
+                    </select>
+                   
+                </div>
+                <div class="col-lg-6">
+                    <label asp-for="TransferBankTo">Transfer Bank To</label>
+                      <input asp-for="TransferBankTo" class="form-control form-control-sm" placeholder="Enter Transferred Bank To" />
+            
+                  
+                </div>
+            </div>
+            <div class="form-group row">
+                     <div class="col-lg-6">
+                    <label asp-for="Remarks">Remarks</label>
+                      <input asp-for="Remarks" class="form-control form-control-sm" placeholder="Enter Remarks" />
+            
+                  
+                </div>
+             </div>
+    @if (Model.Id > 0)
+    {
+        <hr />
+        <div class="form-group row">
+            <div class="col-lg-6">
+                @if (Model.Ldate.HasValue)
+                {
+                    <label>Creation Date: </label>
+                    <label>@Model.Ldate.Value.ToString(ApplicationConstants.DateFormat)</label>
+                }
+            </div>
+            <div class="col-lg-6">
+                @if (Model.ModifyDate.HasValue)
+                {
+                    <label>Last Update Date: </label>
+                    <label>@Model.ModifyDate.Value.ToString(ApplicationConstants.DateFormat)</label>
+                }
+            </div>
+        </div>
+    }
+</div>
+<div class="row no-print" style="margin-top: 9px;">
+    <div class="col-12">
+        <button type="button" class="btn btn-default success-btn btn-common btn-circle float-right js-expenseEntry-save" data-id="@Model.ExpenseCode">
+            <i class="fas fa-save"></i> Save
+        </button>
+    </div>
+</div>

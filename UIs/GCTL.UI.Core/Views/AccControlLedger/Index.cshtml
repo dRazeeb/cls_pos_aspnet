@@ -1,0 +1,112 @@
+﻿@model GCTL.UI.Core.ViewModels.AccControlLedger.AccControlLedgerPageViewModel
+@{
+    ViewBag.Title = "Group Ledger";
+    Model.Breadcrumb = "Group Ledger";
+    Model.PageTitle = ViewBag.Title;
+}
+
+<style>
+     .linkbutton1 {
+        background-color: white;
+        color: black;
+        border: 1px solid #4CAF50;
+    }
+
+     .selectedNav {
+       background-color: #218838 !important;
+       border-color: #1e7e34 !important;
+       color: #e9ecef !important;
+    }
+
+    .breadcrumb {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding:0 ;
+  margin-bottom: 1rem;
+  list-style: none;
+  background-color: #e9ecef;
+  border-radius: .25rem;
+}
+.Test{
+    list-style: none;
+    display: flex;
+}
+.btnTest{
+    padding: .375rem .10rem;
+}
+/*.text-sm
+{
+    font-size: 11px !important;
+}*/
+.btnTest {
+    font-size: 11px !important;
+}
+</style>
+<!-- Content Header (Page header) -->
+<partial name="_PageHeader" model="Model" />
+
+<section class="content consistent-look">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6 pr-0">
+                <div class="card">
+                    <div class="card-header px-2">
+                      <div class="row mb-2" style="height: 19px;">
+                <div class="col-md-12 row">
+                    <ol class="Test float-sm-right">
+                        <li class="" style="margin-right: 5px; margin-left: 5px;"><a href='@Url.Action("Index", "AccControlLedger")' class="selectedNav linkbutton1 btnTest btn-outline" style="font-size:11px; text-decoration: none;">Group Ledger</a></li>
+                        <li class="" style="margin-right: 5px; margin-left: 5px;"><a href='@Url.Action("Index", "AccSubControlLedger")' class="linkbutton1 btnTest btn-outline" style="font-size:11px; text-decoration: none;">Control Ledger</a></li>
+                        <li class="" style="margin-right: 5px; margin-left: 5px;"><a href='@Url.Action("Index", "AccGeneralLedger")' class="linkbutton1 btnTest btn-outline" style="font-size:11px; text-decoration: none;">Sub-Control Ledger</a></li>
+                        <li class="" style="margin-right: 5px; margin-left: 5px;"><a href='@Url.Action("Index", "AccSubsidiaryLedger")' class="linkbutton1 btnTest btn-outline" style="font-size:11px; text-decoration: none;">Subsidiary Ledger</a></li>
+                        <li class="" style="margin-right: 5px; margin-left: 5px;"><a href='@Url.Action("Index", "AccSubSubsidiaryLedger")' class="linkbutton1 btnTest btn-outline" style="font-size:11px; text-decoration: none;">General Ledger</a></li>
+            
+                     </ol>
+                </div>
+               
+            </div>
+                        <partial name="_Toolbars" model="new ToobarModel() { Title = Model.Breadcrumb, Code = Model.Code, Name = Model.Setup.ControlLedgerCodeNo }" />
+                    </div>
+                    <div class="card-body px-2">
+                        <form asp-action="Setup" id="controlLedger-form">
+                            <div class="js-controlLedger-form-container">
+                                <partial name="_Setup" model="Model.Setup" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-body p-2 pt-3">
+                        <div class="js-controlLedger-grid-container">
+                            <partial name="_Grid" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <partial name="_BottomNavigation" />
+    </div>
+</section>
+<partial name="DeleteModal" />
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/js/pages/controlLedger.js"></script>
+    <script type="text/javascript">
+        var options = {
+            baseUrl: '@Url.Action("", "AccControlLedger")'
+        };
+        options.load = () => {
+        };
+
+        $.controlLedger(options);
+    </script>
+}
+
+
+

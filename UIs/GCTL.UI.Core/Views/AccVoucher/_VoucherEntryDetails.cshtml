@@ -1,0 +1,107 @@
+﻿@model GCTL.Core.ViewModels.AccVouchers.AccVoucherSetupViewModel
+
+ <div class="card card-primary">
+                    <div class="card-body" style="padding-left: 7px; padding-right: 8px;">
+    <div class="form-group row">
+        <div class="col-lg-3">
+             <label> Tr.Type </label>
+            <select id="ddlTrType" class="form-control form-control-sm  selectpicker"
+                    asp-items="@ViewBag.LoadTrType as SelectList"
+                    data-placeholderX="Select Tr Type">
+                <option value="">Select Tr Type</option>
+            </select>
+        </div>
+            <div class="col-lg-3">
+                 <label > Account Head </label>
+               <select id="ddlAccCode" class="form-control form-control-sm AccCode selectpicker"
+                    asp-items="@ViewBag.AccountHead as SelectList"
+                    data-placeholderX="Select Account Head ">
+                <option value="">Select Account Head</option>
+            </select>
+        </div>
+
+    </div>
+ <div class="form-group row headDetails">
+
+        <div class="col-lg-3">
+            Group Ledger: <label id="lblGroupLedger" style="font-weight: normal;"></label>
+        </div>
+        <div class="col-lg-3">
+            Control Ledger :  <label id="lblControlLedger" style="font-weight: normal;"></label>
+        </div>
+ </div>
+<div class="form-group row headDetails">
+
+        <div class="col-lg-3">
+            Sub-Control Ledger :<label id="lblSubControlLedger" style="font-weight: normal;"></label>
+        </div>
+
+        <div class="col-lg-3">
+            Subsidiary Ledger :<label id="lblSubsidiaryLedger" style="font-weight: normal;"></label>
+        </div>
+</div>
+
+    <div class="form-group row " >
+        <div class="col-lg-3">
+             <label>Description </label>
+              <span class="text-danger">*</span>
+            <input id="txtDescription" class="form-control form-control-sm" placeholder="Enter Description" />
+        </div>
+            <div class="col-lg-3">
+               <label >Amount  </label>
+               <span class="text-danger">*</span>
+               <input id="txtAmount" class="form-control form-control-sm" placeholder="Enter Amount" />
+        </div>
+
+    </div>
+        <div class="form-group row divRecieved">
+        <div class="col-lg-3">
+             <label>Cheque No. </label>
+              <span class="text-danger"></span>
+            <input id="txtChequeNo" class="form-control form-control-sm" placeholder="Enter Cheque No." />
+        </div>
+        <div class="col-lg-3">
+               <label >Cheque Date  </label>
+               <span class="text-danger"></span>
+               <input id="txtChequeDate" class="form-control form-control-sm datepicker" placeholder="Enter Cheque Date" />
+        </div>
+    </div>
+          <div class="form-group row" style="padding-top:10px">
+                            <div class="col-lg-2">
+                                <span id="TempMessage"></span>
+                                <label style="display:none" id="lblTempID"></label>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                                        <button class="btn btn-primary w-100"  type="button"  id="btnTempSubmit">
+                                        <span class="fa fa-plus" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Add</button>
+                                      
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <button class="btn btn-warning w-100" type="button" id="btnTempClear">
+                                            <span class="fa fa-sync" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Reset
+                                        </button>
+                                       
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <button id="btnTempDelete" class="btn btn-danger" style="width:108%" type="button">
+                                            <span class="fa fa-trash" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Delete
+                                        </button>
+                                     
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6">
+                            </div>
+                        </div>
+<div class="row mb-3">
+    <div class="col-md-12">
+         <div id="orderItems" class="tablecontainer">
+          </div>
+
+    </div>
+</div>
+      </div>
+
+    </div>
