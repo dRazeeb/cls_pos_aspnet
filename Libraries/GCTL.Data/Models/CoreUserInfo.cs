@@ -7,6 +7,12 @@ namespace GCTL.Data.Models
 {
     public partial class CoreUserInfo
     {
+        public CoreUserInfo()
+        {
+            ProductCategoryCreatedByNavigation = new HashSet<ProductCategory>();
+            ProductCategoryUpdatedByNavigation = new HashSet<ProductCategory>();
+        }
+
         public int Id { get; set; }
         public string Username { get; set; }
         public string UserPassword { get; set; }
@@ -20,5 +26,8 @@ namespace GCTL.Data.Models
         public string Lip { get; set; }
         public string Lmac { get; set; }
         public DateTime? ModifyDate { get; set; }
+
+        public virtual ICollection<ProductCategory> ProductCategoryCreatedByNavigation { get; set; }
+        public virtual ICollection<ProductCategory> ProductCategoryUpdatedByNavigation { get; set; }
     }
 }

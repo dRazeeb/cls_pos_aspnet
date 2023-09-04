@@ -9,581 +9,581 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GCTL.UI.Core
 build_property.RootNamespace = GCTL.UI.Core
-build_property.ProjectDir = D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\UIs\GCTL.UI.Core\
+build_property.ProjectDir = D:\2023\ASPNET\POS\Project\HMS - Full Project\UIs\GCTL.UI.Core\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\UIs\GCTL.UI.Core
+build_property.MSBuildProjectDirectory = D:\2023\ASPNET\POS\Project\HMS - Full Project\UIs\GCTL.UI.Core
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ29udHJvbExlZGdlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ29udHJvbExlZGdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ29udHJvbExlZGdlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ29udHJvbExlZGdlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccControlLedger/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjQ29udHJvbExlZGdlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcRGVsZXRlTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/Permissions.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/Permissions.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcUGVybWlzc2lvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcX0dyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcX1NldHVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccessCodes/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzQ29kZXNcX1Rvb2xiYXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjR2VuZXJhbExlZGdlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjR2VuZXJhbExlZGdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjR2VuZXJhbExlZGdlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjR2VuZXJhbExlZGdlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccGeneralLedger/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjR2VuZXJhbExlZGdlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Accounts/Login.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Accounts/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViQ29udHJvbExlZGdlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViQ29udHJvbExlZGdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViQ29udHJvbExlZGdlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViQ29udHJvbExlZGdlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubControlLedger/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViQ29udHJvbExlZGdlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3Vic2lkaWFyeUxlZGdlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3Vic2lkaWFyeUxlZGdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3Vic2lkaWFyeUxlZGdlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3Vic2lkaWFyeUxlZGdlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubsidiaryLedger/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3Vic2lkaWFyeUxlZGdlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViU3Vic2lkaWFyeUxlZGdlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViU3Vic2lkaWFyeUxlZGdlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViU3Vic2lkaWFyeUxlZGdlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViU3Vic2lkaWFyeUxlZGdlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccSubSubsidiaryLedger/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjU3ViU3Vic2lkaWFyeUxlZGdlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_VoucherEntryDetails.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/AccVoucher/_VoucherEntryDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjVm91Y2hlclxfVm91Y2hlckVudHJ5RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Balancesheet/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Balancesheet/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFsYW5jZXNoZWV0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Balancesheet/_PageHeader.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Balancesheet/_PageHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFsYW5jZXNoZWV0XF9QYWdlSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0FjY291bnRzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0FjY291bnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0FjY291bnRzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0FjY291bnRzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankAccounts/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0FjY291bnRzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0JyYW5jaGVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0JyYW5jaGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0JyYW5jaGVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0JyYW5jaGVzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/BankBranches/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua0JyYW5jaGVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRGVsZXRlTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcX0dyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcX1NldHVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Banks/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcX1Rvb2xiYXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/CashbookReport/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/CashbookReport/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGJvb2tSZXBvcnRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/CashbookReport/_PageHeader.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/CashbookReport/_PageHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FzaGJvb2tSZXBvcnRcX1BhZ2VIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Companies/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFuaWVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcX0dyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcX1NldHVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Departments/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcX1Rvb2xiYXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Designations/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25zXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Details.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFNldHVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Employees/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUVudHJ5XERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUVudHJ5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUVudHJ5XF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUVudHJ5XF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseEntry/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUVudHJ5XF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUhlYWRGcm9tQVNTTFxEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUhlYWRGcm9tQVNTTFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUhlYWRGcm9tQVNTTFxfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUhlYWRGcm9tQVNTTFxfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/ExpenseHeadFromASSL/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZUhlYWRGcm9tQVNTTFxfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Home/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Home/Privacy.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/IncomeStatement/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/IncomeStatement/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lU3RhdGVtZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/IncomeStatement/_PageHeader.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/IncomeStatement/_PageHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jb21lU3RhdGVtZW50XF9QYWdlSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbnNcRGVsZXRlTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbnNcX0dyaWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbnNcX1NldHVwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Navigations/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmF2aWdhdGlvbnNcX1Rvb2xiYXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudE1vZGVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudE1vZGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudE1vZGVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudE1vZGVzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentModes/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudE1vZGVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFR5cGVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFR5cGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFR5cGVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFR5cGVzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/PaymentTypes/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFR5cGVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Preview/Viewer.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Preview/Viewer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJldmlld1xWaWV3ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25zXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25zXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25zXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Religions/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25zXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/Components/Menu/Default.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/Components/Menu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/Error.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Sidebar.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Sidebar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shifts/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hpZnRzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFR5cGVzXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFR5cGVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFR5cGVzXF9HcmlkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFR5cGVzXF9TZXR1cC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UnitTypes/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pdFR5cGVzXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/Index.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY2Vzc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Grid.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Grid.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY2Vzc1xfR3JpZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Setup.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Setup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY2Vzc1xfU2V0dXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/_ViewImports.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/_ViewStart.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERlbGV0ZU1vZGFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-j70c7yl0oi
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/QuickAddModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/QuickAddModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFF1aWNrQWRkTW9kYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l8iep0vwg4
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Auditing.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Auditing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdWRpdGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-hxgbih3sqf
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_BottomNavigation.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_BottomNavigation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3R0b21OYXZpZ2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-5n6wu4u0cd
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Header.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-af9pwc4zsx
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Layout.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ccw39u10ya
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_PageHeader.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_PageHeader.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-8xhq0uvf9r
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Sidebar-working.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Sidebar-working.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLXdvcmtpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pr21kktgm0
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/Shared/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub29sYmFycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-himydvh1zw
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/DeleteModal.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/DeleteModal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY2Vzc1xEZWxldGVNb2RhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-n6d0973fk7
 
-[D:/Project_O/POSCore/POS_G(09-01)/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Toolbars.cshtml]
+[D:/2023/ASPNET/POS/Project/HMS - Full Project/UIs/GCTL.UI.Core/Views/UserAccess/_Toolbars.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFjY2Vzc1xfVG9vbGJhcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a42ty0vvdi

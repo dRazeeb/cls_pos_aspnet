@@ -1212,3 +1212,35 @@ D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Data\obj\Deb
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\refint\GCTL.Data.dll
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.pdb
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\ref\GCTL.Data.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.deps.json
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.AssemblyReference.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.AssemblyInfoInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.AssemblyInfo.cs
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.CoreCompileInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\EFCoreSqlServerDateOnlyTimeOnly.cs
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.CopyComplete
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\refint\GCTL.Data.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Data\obj\Debug\net6.0\ref\GCTL.Data.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.deps.json
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\bin\Debug\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.AssemblyReference.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.AssemblyInfoInputs.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.AssemblyInfo.cs
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.CoreCompileInputs.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\EFCoreSqlServerDateOnlyTimeOnly.cs
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.csproj.CopyComplete
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\refint\GCTL.Data.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Data\obj\Debug\net6.0\ref\GCTL.Data.dll

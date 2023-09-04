@@ -15078,11 +15078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2023\\New folder\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
+      "projectUniqueName": "D:\\2023\\ASPNET\\cls_pos_aspnet\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
       "projectName": "GCTL.UI.Core",
-      "projectPath": "D:\\2023\\New folder\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
+      "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
       "packagesPath": "C:\\Users\\Mahedi\\.nuget\\packages\\",
-      "outputPath": "D:\\2023\\New folder\\UIs\\GCTL.UI.Core\\obj\\",
+      "outputPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\UIs\\GCTL.UI.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15099,14 +15099,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\2023\\New folder\\Libraries\\GCTL.Core\\GCTL.Core.csproj": {
-              "projectPath": "D:\\2023\\New folder\\Libraries\\GCTL.Core\\GCTL.Core.csproj"
+            "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Core\\GCTL.Core.csproj": {
+              "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Core\\GCTL.Core.csproj"
             },
-            "D:\\2023\\New folder\\Libraries\\GCTL.Data\\GCTL.Data.csproj": {
-              "projectPath": "D:\\2023\\New folder\\Libraries\\GCTL.Data\\GCTL.Data.csproj"
+            "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Data\\GCTL.Data.csproj": {
+              "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Data\\GCTL.Data.csproj"
             },
-            "D:\\2023\\New folder\\Libraries\\GCTL.Service\\GCTL.Service.csproj": {
-              "projectPath": "D:\\2023\\New folder\\Libraries\\GCTL.Service\\GCTL.Service.csproj"
+            "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Service\\GCTL.Service.csproj": {
+              "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Service\\GCTL.Service.csproj"
             }
           }
         }

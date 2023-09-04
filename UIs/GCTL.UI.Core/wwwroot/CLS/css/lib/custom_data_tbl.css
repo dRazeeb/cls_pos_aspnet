@@ -1,0 +1,58 @@
+.dataTables_processing.card {
+	min-height: 0;
+}
+
+#example_wrapper{
+	font-size: 14px;
+}
+	#example_wrapper label {
+		font-size: 17px;
+	}
+#example{
+	font-size: 14px;
+}
+div.dataTables_wrapper div.dataTables_processing {
+	border: 3px solid #3E507A;
+	color: #17a2b8;
+	z-index: 99;
+}
+div.dataTables_length {
+    float: left;
+}
+div.dataTables_info {
+    float: right;
+}
+div.dataTables_processing img{
+width: 52px;
+}
+
+
+#example, table.table{
+	/*box-shadow: 0px 2px 3px 1px #b7b7b7;*/
+	font-size: 15px;
+}
+
+
+	#example thead tr, table.table thead tr {
+		background: #054d5f;
+		color: #fff;
+	} 
+
+
+/*#example tbody .even , table.table tbody .even{
+	background: #f5f8e7;
+	
+}*/
+/*#example tbody .even:hover, table.table tbody .even:hover{
+	background: #EDF2D9;
+}*/
+/*#example tbody .odd:hover{
+	background: #eceaea;
+}*/
+div.dataTables_info {
+	float: left;
+}
+.pagination, #example_info, #example_filter {
+	font-size: 12px;
+}
+

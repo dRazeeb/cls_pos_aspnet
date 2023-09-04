@@ -1290,3 +1290,37 @@ D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Service\bin\
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Core.pdb
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.CopyComplete
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\ref\GCTL.Service.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.deps.json
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.AssemblyReference.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.AssemblyInfoInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.AssemblyInfo.cs
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.CoreCompileInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.CopyComplete
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\refint\GCTL.Service.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Service\obj\Debug\net6.0\ref\GCTL.Service.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.deps.json
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Service.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Data.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Data.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\bin\Debug\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.AssemblyReference.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.AssemblyInfoInputs.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.AssemblyInfo.cs
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.CoreCompileInputs.cache
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.csproj.CopyComplete
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\refint\GCTL.Service.dll
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\GCTL.Service.pdb
+D:\2023\ASPNET\cls_pos_aspnet\Libraries\GCTL.Service\obj\Debug\net6.0\ref\GCTL.Service.dll

@@ -5780,11 +5780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\2023\\New folder\\Libraries\\GCTL.Service\\GCTL.Service.csproj",
+      "projectUniqueName": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Service\\GCTL.Service.csproj",
       "projectName": "GCTL.Service",
-      "projectPath": "D:\\2023\\New folder\\Libraries\\GCTL.Service\\GCTL.Service.csproj",
+      "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Service\\GCTL.Service.csproj",
       "packagesPath": "C:\\Users\\Mahedi\\.nuget\\packages\\",
-      "outputPath": "D:\\2023\\New folder\\Libraries\\GCTL.Service\\obj\\",
+      "outputPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mahedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5801,8 +5801,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\2023\\New folder\\Libraries\\GCTL.Data\\GCTL.Data.csproj": {
-              "projectPath": "D:\\2023\\New folder\\Libraries\\GCTL.Data\\GCTL.Data.csproj"
+            "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Data\\GCTL.Data.csproj": {
+              "projectPath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\Libraries\\GCTL.Data\\GCTL.Data.csproj"
             }
           }
         }

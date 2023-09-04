@@ -99,6 +99,7 @@ namespace GCTL.Data.Models
                 // entity.Property(p => p.Id)
                 //.Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
             });
+
         }
     }
 }

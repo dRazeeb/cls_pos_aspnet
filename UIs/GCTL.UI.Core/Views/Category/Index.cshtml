@@ -1,0 +1,79 @@
+﻿@model GCTL.UI.Core.ViewModels.Category.CategoryTableViewModel
+@{
+    ViewBag.Title = "Category List";
+}
+
+
+@section Styles{
+    @{
+        //<partial name="part/css/_visitor" />
+
+        <link rel="stylesheet" type="text/css" href='~/CLS/css/lib/custom_data_tbl.css' />
+    }
+   <style>
+        .breadcrumb {
+            background-color: #f4f6f9;
+        }
+   </style>
+}
+<section id="content" class="content consistent-look">
+<div class="container-fluid" >
+        <div class="row mb-0">
+        <div class="col-md-8">
+           
+        </div>
+        <div class="col-md-4">
+            <ol class="breadcrumb float-sm-right mb-0">
+                <li class="breadcrumb-item"><a href="/Dashboard">Home</a></li>
+                <li class="breadcrumb-item active">@ViewBag.Title</li>
+            </ol>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xl-12 col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                    <div class="row">
+                      @*  <div class="col-md">
+                            <h5>Guests</h5>
+                        </div>*@
+                        <div class="col-md text-right">
+                            @*<a v-on:click="addNew()" class="text-info" href="javascript:void(0)">Add New</a>*@
+                        </div>
+                    </div>
+                    <table id="example" class="table table-striped table-hover table-bordered table-sm dt-responsive" style="width:100%">
+                        <thead>
+                            <tr class="text-center">
+                                <th class="align-middle">SL No.</th>
+                                <th class="align-middle">Category Name</th>
+                                <th class="align-middle">Parent Category</th>
+                                <th class="align-middle">Created By</th>
+                                <th class="align-middle">Updated At</th>
+                                <th class="align-middle">Action</th>
+                            </tr>
+                        </thead>
+                        @*   <tbody>
+                        <tr>
+                        <td>Fiona Green</td>
+                        </tr>
+                        </tbody> *@
+                    </table>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/CLS/js/lib/vue.js"></script>
+    <script src="~/CLS/js/category.js"></script>
+
+}

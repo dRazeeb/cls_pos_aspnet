@@ -890,3 +890,15 @@ D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Core\obj\Rel
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\refint\GCTL.Core.dll
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.pdb
 D:\Project_O\POSCore\POS_G(09-01)\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\ref\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\bin\Release\net6.0\GCTL.Core.deps.json
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\bin\Release\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\bin\Release\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.csproj.AssemblyReference.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.AssemblyInfoInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.AssemblyInfo.cs
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.csproj.CoreCompileInputs.cache
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\refint\GCTL.Core.dll
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\GCTL.Core.pdb
+D:\2023\ASPNET\POS\Project\HMS - Full Project\Libraries\GCTL.Core\obj\Release\net6.0\ref\GCTL.Core.dll

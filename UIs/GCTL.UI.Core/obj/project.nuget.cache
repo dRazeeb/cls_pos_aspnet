@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8oXgN4k1V+Dw9L8pa6Z+uMfgWQVHoo+uxdtm9VpYOO0xJykiVwaC4uhQnbIH0v6v14qcB9/13Qa/W5ykki/KXw==",
+  "dgSpecHash": "A23ICzjLmhVvY6i/Blb3fXcaZiL+vNmAsW5RF/53zxTP4u1MkAo9Z4WikEFTmr2Y5L5pHD6RiEAPi6BDV4IiNQ==",
   "success": true,
-  "projectFilePath": "D:\\2023\\New folder\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
+  "projectFilePath": "D:\\2023\\ASPNET\\cls_pos_aspnet\\UIs\\GCTL.UI.Core\\GCTL.UI.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mahedi\\.nuget\\packages\\aspnetcore.reporting\\2.1.0\\aspnetcore.reporting.2.1.0.nupkg.sha512",
     "C:\\Users\\Mahedi\\.nuget\\packages\\aspnetcore.reportingservices\\2.1.0\\aspnetcore.reportingservices.2.1.0.nupkg.sha512",

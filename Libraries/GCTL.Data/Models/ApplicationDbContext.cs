@@ -49,6 +49,7 @@ namespace GCTL.Data.Models
         public virtual DbSet<Logs> Logs { get; set; }
         public virtual DbSet<PosPaymentType> PosPaymentType { get; set; }
         public virtual DbSet<PosTrType> PosTrType { get; set; }
+        public virtual DbSet<ProductCategory> ProductCategory { get; set; }
         public virtual DbSet<RmgProdDefUnitType> RmgProdDefUnitType { get; set; }
         public virtual DbSet<SalesDefBankBranchInfo> SalesDefBankBranchInfo { get; set; }
         public virtual DbSet<SalesDefBankInfo> SalesDefBankInfo { get; set; }
@@ -58,6 +59,8 @@ namespace GCTL.Data.Models
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.UseCollation("SQL_Latin1_General_CP1_CI_AS");
+
             modelBuilder.Entity<AccCashFlowType>(entity =>
             {
                 entity.HasKey(e => e.AutoId)
@@ -1528,6 +1531,40 @@ namespace GCTL.Data.Models
                     .HasColumnName("TC");
 
                 entity.Property(e => e.TrTypeName).IsRequired();
+            });
+
+            modelBuilder.Entity<ProductCategory>(entity =>
+            {
+                entity.Property(e => e.Id).HasColumnName("ID");
+
+                entity.Property(e => e.CreatedAt)
+                    .HasColumnType("datetime")
+                    .HasDefaultValueSql("(getdate())");
+
+                entity.Property(e => e.Description).HasMaxLength(255);
+
+                entity.Property(e => e.Name)
+                    .IsRequired()
+                    .HasMaxLength(150);
+
+                entity.Property(e => e.Status).HasDefaultValueSql("((1))");
+
+                entity.Property(e => e.UpdatedAt).HasColumnType("datetime");
+
+                entity.HasOne(d => d.CreatedByNavigation)
+                    .WithMany(p => p.ProductCategoryCreatedByNavigation)
+                    .HasForeignKey(d => d.CreatedBy)
+                    .HasConstraintName("FK_CreatedBy_Core_UserInfo_CreatedBy");
+
+                entity.HasOne(d => d.Parent)
+                    .WithMany(p => p.InverseParent)
+                    .HasForeignKey(d => d.ParentId)
+                    .HasConstraintName("FK_ParentId_ProductCategory");
+
+                entity.HasOne(d => d.UpdatedByNavigation)
+                    .WithMany(p => p.ProductCategoryUpdatedByNavigation)
+                    .HasForeignKey(d => d.UpdatedBy)
+                    .HasConstraintName("FK_UpdatedBy_Core_UserInfo_UpdatedBy");
             });
 
             modelBuilder.Entity<RmgProdDefUnitType>(entity =>

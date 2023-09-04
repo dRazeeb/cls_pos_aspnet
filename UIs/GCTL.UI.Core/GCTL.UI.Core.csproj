@@ -297,6 +297,7 @@
 
   <ItemGroup>
     <Folder Include="Pages\" />
+    <Folder Include="wwwroot\CLS\css\" />
   </ItemGroup>
 
   <ItemGroup>
